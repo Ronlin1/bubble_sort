@@ -1,0 +1,11 @@
+The space complexity for Bubble Sort is O(1), because only a single additional memory space is required i.e. for temp variable. Also, the best case time complexity will be O(n), it is when the list is already sorted.
+Bubble sort is a simple, inefficient sorting algorithm used to sort lists. It is generally one of the first algorithms taught in computer science courses because it is a good algorithm to learn to build intuition about sorting. While sorting is a simple concept, it is a basic principle used in complex computer programs such as file search, data compression, and path finding. Running time is an important thing to consider when selecting a sorting algorithm since efficiency is often thought of in terms of speed. Bubble sort has an average and worst-case running time of O\big(n^2\big)O(n 
+2
+ ), so in most cases, a faster algorithm is more desirable.
+Worst and Average Case Time Complexity: O(n*n). Worst case occurs when array is reverse sorted.
+
+Best Case Time Complexity: O(n). Best case occurs when array is already sorted.
+
+Auxiliary Space: O(1)
+
+Boundary Cases: Bubble sort takes minimum time (Order of n) when elements are already sorted.
